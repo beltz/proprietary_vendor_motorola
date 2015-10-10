@@ -42,7 +42,6 @@ PRODUCT_PACKAGES += \
     DCMO \
     DiagMon \
     DMService \
-    GCS \
     LifetimeData \
     MotoSignatureApp \
     SprintDM \
