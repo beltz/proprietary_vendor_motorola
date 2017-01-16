@@ -42,6 +42,7 @@ PRODUCT_PACKAGES += \
     DCMO \
     DiagMon \
     DMService \
+    HotwordEnrollment \
     LifetimeData \
     MotoSignatureApp \
     SprintDM \
